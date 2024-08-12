@@ -1,0 +1,4 @@
+Django==5.0.7
+django-extensions==3.2.3
+ipython==8.26.0
+pillow==10.4.0
